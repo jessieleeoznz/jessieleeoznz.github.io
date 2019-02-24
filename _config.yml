@@ -1,6 +1,7 @@
 safe:        false
 auto:        false
 
+baseurl: /jessieleeoznz.github.io
 source:      .
 destination: ./_site
 plugins:     ./_plugins
